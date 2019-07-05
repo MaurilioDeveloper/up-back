@@ -1,0 +1,10 @@
+# .NET Core Project
+bin
+bin/*
+obj
+obj/*
+.vs
+.vscode
+.vscode/*
+Log/*
+Positivo.AtividadesComplementares/Log/
